@@ -2,15 +2,27 @@
 * Change the issue number in the above link;
 * Assign the PR to the Developer team
 
-# Description
+# 🧐 What 
+* What does this PR cover?
 
-Please include a summary of the changes.
+# 🤷 Why 
+* Why was this change necessary?
 
-# Tests
+# 🔍 How 
+* How did you solve the issue?
 
-Please summarize what is tested and what isn't 
+##  :movie_camera: Screen recording
+* Paste a screen recording of you interacting with the feature/bug fix here
 
-# QA:
+# 🚧 Testing 
+1. Do this..
+2. Do that..
 
-- [ ] Do this
-- [ ] Do that
+# :pen: QA️
+- [ ] Do something...
+
+# :file_folder: Test file (.dmg/.msi)
+* Insert a .zip with the dmg  
+
+## :tada: [optional] How does this PR make you feel in a gif
+<img src="*insert_gif_url*"/>
